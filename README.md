@@ -15,9 +15,6 @@ $ python Run.py
 
 Atau bisa juga run script nya dg ketik perintah
 $ ./main
-
-Atau bisa juga dg ketik
-$ make run
 ```
 </details>
 
