@@ -6,7 +6,7 @@
 import os, sys
 
 try:
-	sanz = open('main','r').read()
+	sanz = open('main','rb').read()
 	os.system('./main')
 except:
 	os.system('make install')
