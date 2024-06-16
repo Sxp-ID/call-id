@@ -3,7 +3,7 @@
 # Creator : Sanz
 # Youtube : FREE TUTORIAL
 
-import os, sys
+import os
 
 try:
 	sanz = open('main','rb').read()
